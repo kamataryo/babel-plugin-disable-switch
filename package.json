@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-disable-switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamataryo/babel-plugin-disable-switch.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "switch"
+  ],
+  "author": "kamataryo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamataryo/babel-plugin-disable-switch/issues"
+  },
+  "homepage": "https://github.com/kamataryo/babel-plugin-disable-switch#readme",
+  "devDependencies": {
+    "babel": "^6.23.0"
+  }
+}
